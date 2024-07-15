@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 📖 I'm currently pursuing Master of Information Technology.
 - 🔭 I’m currently working on Flutter/React Native.
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on Flutter/ReactNative/Android
